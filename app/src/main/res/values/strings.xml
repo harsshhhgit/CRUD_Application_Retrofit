@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">EMS_CRUD</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="createBtn">Create New Employee</string>
+    <string name="updateBtn">Update</string>
+    <string name="deleteBtn">Delete</string>
+    <string name="retrieveBtn">Retrieve</string>
+
+    <string name="createFragHeading">Create Employee</string>
+    <string name="updateFragHeading">Update Employee</string>
+    <string name="deleteFragHeading">Delete Employee</string>
+    <string name="retrieveFragHeading">Retrieve Employee</string>
+
+
+    <string name="id">Enter ID</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="emailId">EmailID</string>
+    <string name="imageUrl">Image URL</string>
+    <string name="designation">Designation</string>
+    <string name="department">Department</string>
+    <string name="status">Status</string>
+    <string name="position">Position</string>
+    <string name="bloodGroup">Blood Group</string>
+    <string name="phoneNumber">Phone Number</string>
+
+    <string name="updateId">Enter ID</string>
+    <string name="updateFirstName">Update First Name</string>
+    <string name="updateLastName">Update Last Name</string>
+    <string name="updateEmailId">Update EmailID</string>
+    <string name="updateImageUrl">Update Image URL</string>
+    <string name="updateDesignation">Update Designation</string>
+    <string name="updateDepartment">Update Department</string>
+    <string name="updateStatus">Update Status</string>
+    <string name="updatePosition">Update Position</string>
+    <string name="updateBloodGroup">Update Blood Group</string>
+    <string name="updatePhoneNumber">Update Phone Number</string>
+
+    <string name="title_activity_update_delete">UpdateDeleteActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
